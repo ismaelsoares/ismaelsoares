@@ -12,12 +12,6 @@ I'm working with web development as FullStack. I like to collaborate sometimes a
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ismaelsoares&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelsoares&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/ismael_doria)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### 😂 Random Dev Meme
-<img src="[https://rm.up.railway.app](https://i.pinimg.com/736x/e6/e6/ca/e6e6ca976df6cad9c3764d4a47825e94.jpg)/" width="512px" heigth="480"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ismaelsoares&icon=1&color=0)](https://visitcount.itsvg.in)
 
