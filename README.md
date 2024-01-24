@@ -1,8 +1,7 @@
 # 💫 About Me:
 I'm working with web development as FullStack. I like to collaborate sometimes and my learning is constant. I currently program with Python/Django HTML/CSS/JS and React, Node.js, PostGree SQL, MySQL. I'm just finishing reading Martin Flower's Clean Code and Data Structure book.
 
-https://ismadev.vercel.app/
-My Home Site 
+[![My Home Site](https://ismadev.vercel.app/) <br/>
 
 
 ## 🌐 Socials:
